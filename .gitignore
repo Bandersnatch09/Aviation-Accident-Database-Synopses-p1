@@ -1,0 +1,12 @@
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore directories containing build artifacts
+build/
+dist/
