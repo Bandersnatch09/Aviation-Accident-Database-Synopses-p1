@@ -22,4 +22,4 @@ The project also majorly includes various aspects of Data cleaning
 
 ### Results
 Examining the NTSB accident data from the past four decades reveals a noticeable trend of declining fatal accidents and fatalities, highlighting increased air travel safety over the last 40 years ,a significant spike in fatalities may have happened in 2001 due to the tragic 9/11 events
-<img src="Trend fatal accidents.png" alt="Trend fatal accidents" width="650" height="450">
+<img src="Trend fatal accidents.png"  width="650" height="450">
