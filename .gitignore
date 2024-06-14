@@ -10,3 +10,6 @@
 # Ignore directories containing build artifacts
 build/
 dist/
+
+*.csv
+!*.zip
