@@ -10,7 +10,11 @@
 # Ignore directories containing build artifacts
 build/
 dist/
+<<<<<<< HEAD
 
 *.csv
 !*.zip
 *.xlsx
+=======
+ 
+>>>>>>> 5f9928b3e09a5c3765105124dfdd60cec2370345
