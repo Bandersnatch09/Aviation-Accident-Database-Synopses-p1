@@ -9,7 +9,17 @@ The company seeks to broaden its portfolio by venturing into the aviation sector
 
 ### III.Data Understanding
 The dataset includes temporal data with incident dates and information on accident identification from 
-[National Transportation Safety Board (NTSB)](http://www.ntsb.gov/) 
+[National Transportation Safety Board (NTSB)](http://www.ntsb.gov/) <br>
 [Kaggle NTSB aviation accident dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) 
 upto *2023* such as distinct event identifiers and inquiry kinds. 
 
+### Methods
+This project uses descriptive analysis in several forms to attempt to understand major causes of Aviation Accidents and Various exploratory diagnostis analyses to investigate the correlations between different entries and the region/states thet we're mostly involved in Aviation accidents <br>
+The project also majorly includes various aspects of Data cleaning
+* Handling Missing values
+* Checking for duplicates
+* Fixing structural issues
+
+### Results
+Examining the NTSB accident data from the past four decades reveals a noticeable trend of declining fatal accidents and fatalities, highlighting increased air travel safety over the last 40 years ,a significant spike in fatalities may have happened in 2001 due to the tragic 9/11 events
+<img src="Trend fatal accidents.png" alt="Trend fatal accidents" width="650" height="450">
