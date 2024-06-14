@@ -13,3 +13,4 @@ dist/
 
 *.csv
 !*.zip
+*.xlsx
