@@ -27,7 +27,7 @@ From the next plot we can formulate an understanding on which are the big three 
 Approximately 26% of fatal accidents involve Cessna aircraft, followed by Piper with 19%, and Beech with 9%.
 <img src="Visualisations/Make fatal accidents.png" alt="Trend" width="650" height="450">
 #### Seeing which Engine types are most involved in Aviation accidents
-<img src="Visualisations/Piechart Make.png" alt="Trend" width="650" height="450">
+<img src="Visualisations/Piechart Make.png" alt="Trend" width="450" height="450">
 
 From the next plot we can then establish that the Make which was "CESSNA" together with the engine type "Reciprocating" was related and they had an inter-relationship by being the leading make and engine types involved in most Aviation incidences rrspectively
 <img src="Visualisations/Engine vs make-Heatmap.png" alt="Trend" width="650" height="450">
@@ -38,7 +38,7 @@ While practically the UNK(Unknown) does not contribute a lot <br>
 The following are the top 10 states with the higest rate of Fatal Accidents
 <img src="Visualisations/Top10 states.png" alt="Trend" width="650" height="450">
 Heatmap showing the density of the states with the most Fatal Accidents
-<img src="Visualisations/Region.heatmap.png" alt="Trend" width="650" height="450">
+<img src="Visualisations/Region.heatmap.png" alt="Trend" width="650" height="300">
 
 
 
