@@ -21,7 +21,9 @@ The project also majorly includes various aspects of Data cleaning
 * Fixing structural issues
 
 ### Results
+ #### Interactive Dashboard
 Additional Visualisations and Analysis could be found on Tableau [Martin Kandie Tableau Public](https://public.tableau.com/app/profile/martin.kandie/viz/Personalproject_17183959431240/Dashboard1?publish=yes)
+<br>
 Examining the NTSB accident data from the past four decades reveals a noticeable trend of declining fatal accidents and fatalities, highlighting increased air travel safety over the last 40 years ,a significant spike in fatalities may have happened in 2001 due to the tragic 9/11 events
 <img src="Visualisations/Trend fatal accidents.png" alt="Trend" width="650" height="450">
 From the next plot we can formulate an understanding on which are the big three makes with the most fatalities
